@@ -1,0 +1,55 @@
+
+/*
+	STYLE.CSS:
+	One stylesheet to rule them all.
+
+	selector { property:value }
+
+*/
+.wrapper {
+  width: 800px;
+  margin: auto;
+}
+
+header {
+  height: 100px;
+  text-align: center;
+  background-color: lightblue;
+}
+
+main {
+  height: 650px;
+  text-align: center;
+  background-color: lightblue;
+  margin: 0;
+}
+
+footer {
+  height: 50px;
+  text-align: center;
+  background-color: lightblue;
+  margin: 0;
+  font-family: cursive;
+}
+
+h1 {
+  background-color: lightblue;
+  text-align: center;
+  margin: 0;
+  font-family: monospace;
+  height: 50px;
+}
+
+h2 {
+  font-family: serif;
+  color: gray;
+}
+
+a {
+  font-family: fantasy;
+  text-align: center;
+}
+p {
+  margin: 0;
+  text-align: center;
+}
